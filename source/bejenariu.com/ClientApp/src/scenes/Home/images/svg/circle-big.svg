@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1120px" height="1120px" viewBox="0 0 1120 1120" enable-background="new 0 0 1120 1120" xml:space="preserve">
+<filter  filterUnits="objectBoundingBox" height="200%" id="filter-6" width="200%" x="-50%" y="-50%">
+	<feOffset  dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feGaussianBlur  in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"></feGaussianBlur>
+	<feColorMatrix  in="shadowBlurOuter1" type="matrix" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"></feColorMatrix>
+</filter>
+<g>
+	<g filter="url(#filter-6)">
+		<circle cx="562.9" cy="80" r="61.9"/>
+	</g>
+	<g>
+		<ellipse id="path-5_3_" fill="#FFFFFF" cx="562.9" cy="80" rx="61.9" ry="61.9"/>
+	</g>
+</g>
+</svg>

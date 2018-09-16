@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="37px" height="110px" viewBox="0 0 37 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="96.462016%" x2="5.89805982e-15%" y2="-1.11022302e-14%" id="linearGradient-1">
+            <stop stop-color="#573D7D" offset="0%"></stop>
+            <stop stop-color="#FB4C7F" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cbe-20160908-copy" transform="translate(-942.000000, -275.000000)" stroke="#FFFFFF">
+            <g id="Group-2" transform="translate(948.000000, 276.000000)">
+                <g id="Group" filter="url(#filter-2)">
+                    <path d="M15.1386763,45.1246843 C15.1264533,45.1124826 15.1111746,45.1073986 15.0969144,45.1073986 C15.0653384,45.1073986 15.0357995,45.1307851 15.0357995,45.1673902 L15.0357995,84.9031921 C15.0357995,84.9397971 15.0653384,84.9642005 15.0969144,84.9642005 C15.1111746,84.9642005 15.1264533,84.9580996 15.1386763,84.945898 L25.04235,75.0594832 C25.0535544,75.0482983 25.0596659,75.0330462 25.0596659,75.0177941 L25.0596659,55.0538049 C25.0596659,55.037536 25.0535544,55.0222839 25.04235,55.0100822 L15.1386763,45.1246843 Z" id="Fill-6"></path>
+                    <path d="M15.1386763,0.0172857195 C15.1264533,0.00508403514 15.1111746,0 15.0969144,0 C15.0653384,0 15.0357995,0.0233865617 15.0357995,0.0599916147 L15.0357995,39.7957935 C15.0357995,39.8323985 15.0653384,39.8568019 15.0969144,39.8568019 C15.1111746,39.8568019 15.1264533,39.8517179 15.1386763,39.8384994 L25.04235,29.9531015 C25.0535544,29.9408998 25.0596659,29.9256477 25.0596659,29.9103956 L25.0596659,9.94640635 C25.0596659,9.93013744 25.0535544,9.91488534 25.04235,9.90370046 L15.1386763,0.0172857195 Z" id="Fill-8"></path>
+                    <path d="M0.102876791,20.5423348 C0.090653806,20.5301406 0.0753750747,20.5250597 0.0611149254,20.5250597 C0.0295388806,20.5250597 0,20.548432 0,20.5850147 L0,99.940045 C0,99.9766277 0.0295388806,100 0.0611149254,100 C0.0753750747,100 0.090653806,99.9949191 0.102876791,99.9827248 L10.0065505,90.1023422 C10.0177549,90.0911641 10.0238663,90.0759213 10.0238663,90.0596624 L10.0238663,30.4653973 C10.0238663,30.4491383 10.0177549,30.4338955 10.0065505,30.4217013 L0.102876791,20.5423348 Z" id="Fill-4"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
